@@ -6,4 +6,3 @@ function draw(){
 
     }
 }
-ashak
